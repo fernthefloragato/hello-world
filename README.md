@@ -1,2 +1,2 @@
 # hello-world
-This is for practicing and using Github
+Hello, I am a programmer and artist!
